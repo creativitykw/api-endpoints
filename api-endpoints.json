@@ -1,5 +1,5 @@
 {
-    "endpoints": {
+    "endPoints": {
         "classified": "http://192.168.8.112/classified/"        
     }
 }
